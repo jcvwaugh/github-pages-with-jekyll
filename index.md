@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "jcvwaugh's profile"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Here you can see projects, sites, and apps, worked on by jcvwaugh.
